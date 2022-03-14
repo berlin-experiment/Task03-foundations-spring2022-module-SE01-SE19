@@ -1,7 +1,7 @@
 # foundations-spring2022-se Task 3
 ## CODE University Foundations: SE_01 Week 1 Task
 
-Simple joke bot for weekly assessment.
+Simple text arena game for weekly assessment.
 
 ![Text Arena Game Preview GIF](text-arena-game.gif)
 
